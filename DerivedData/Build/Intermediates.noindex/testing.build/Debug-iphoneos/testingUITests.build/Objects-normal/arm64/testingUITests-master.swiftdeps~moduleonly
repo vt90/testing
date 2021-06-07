@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "58c2f62f32f84c30e0e292a35931580d"
+build_time: [1623095497, 726327000]
+inputs:
+  "/Users/vladtomsa/Projects/ios/testing/testingUITests/testingUITests.swift": [1623095159, 779214366]

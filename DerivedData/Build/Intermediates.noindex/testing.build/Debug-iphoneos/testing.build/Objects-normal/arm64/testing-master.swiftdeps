@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "9d52df65be838affad212eb2c25351f0"
+build_time: [1623095490, 837794000]
+inputs:
+  "/Users/vladtomsa/Projects/ios/testing/testing/ViewController.swift": [1623094759, 374020759]
+  "/Users/vladtomsa/Projects/ios/testing/testing/AppDelegate.swift": [1623094759, 369323981]
+  "/Users/vladtomsa/Projects/ios/testing/testing/SceneDelegate.swift": [1623094759, 372189340]

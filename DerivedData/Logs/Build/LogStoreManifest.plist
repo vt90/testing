@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>09F1C826-9D4D-4DA6-8C60-0304AA398220</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09F1C826-9D4D-4DA6-8C60-0304AA398220.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>testing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>testing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project testing with scheme testing</string>
+			<key>timeStartedRecording</key>
+			<real>644790521.65455794</real>
+			<key>timeStoppedRecording</key>
+			<real>644790524.88659501</real>
+			<key>title</key>
+			<string>Testing project testing with scheme testing</string>
+			<key>uniqueIdentifier</key>
+			<string>09F1C826-9D4D-4DA6-8C60-0304AA398220</string>
+		</dict>
+		<key>76C713A5-0204-4B05-989C-9FA6699EE4CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>76C713A5-0204-4B05-989C-9FA6699EE4CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>testing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>testing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project testing with scheme testing</string>
+			<key>timeStartedRecording</key>
+			<real>644788193.09263599</real>
+			<key>timeStoppedRecording</key>
+			<real>644788194.56492996</real>
+			<key>title</key>
+			<string>Testing project testing with scheme testing</string>
+			<key>uniqueIdentifier</key>
+			<string>76C713A5-0204-4B05-989C-9FA6699EE4CA</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
