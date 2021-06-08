@@ -17,5 +17,4 @@ appcenter test run xcuitest \
   --devices "tomsavlad90/ios-devices" \
   --test-series “master” \
   --locale "en_US" \
-  --build-dir DerivedData/Build/Products/Debug-iphoneos \
-  —-token $APP_CENTER_API_TOKEN
+  --build-dir DerivedData/Build/Products/Debug-iphoneos 
