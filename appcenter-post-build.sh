@@ -9,3 +9,8 @@ echo "Output directory:" $APPCENTER_OUTPUT_DIRECTORY
 echo "**************************************************************************************************"
 echo 
 
+ls
+
+cd $APPCENTER_OUTPUT_DIRECTORY
+
+ls
