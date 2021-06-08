@@ -12,6 +12,8 @@ echo
 ls
 echo
 echo
+ xcodebuild -version
+
 appcenter login --token $APP_CENTER_API_TOKEN
 echo "Successfully logged in"
 appcenter test run xcuitest \
