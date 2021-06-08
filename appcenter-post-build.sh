@@ -12,6 +12,8 @@ echo
 ls
 echo
 echo
+appcenter login --token $APP_CENTER_API_TOKEN
+echo "Successfully logged in"
 appcenter test run xcuitest \
   --app "tomsavlad90/Hello" \
   --devices "tomsavlad90/ios-devices" \
